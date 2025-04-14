@@ -1,3 +1,5 @@
-```python 
-helloWorld = "¡Hola, Mundo!" 
-```
+- [X]  Cursos de Microsoft de ***Ingesoft 2***
+- [ ]  Práctica 3 ***Sistemas Inteligentes***
+- [ ]  Taller PlayFair **Criptografía** *23 de Abril*
+- [ ]  Tarea 2 **Optimización** *2 de Mayo*
+- [ ]  Primer Parcial **Optimización** *29 de Abril*
